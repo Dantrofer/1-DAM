@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Tienda>
+    <producto id="1">
+        <nombre>Raton inalambrico</nombre>
+        <marca>Logitech</marca>
+        <precio>49.99</precio>
+        <stock>30</stock>
+        <categoria>ratones</categoria>
+    </producto>
+    <producto id="2">
+        <nombre>Teclado mecanico</nombre>
+        <marca>Corsair</marca>
+        <precio>125</precio>
+        <stock>3</stock>
+        <categoria>Teclados</categoria>
+    </producto>
+    <producto id="3">
+        <nombre>Auriculares RGB</nombre>
+        <marca>Corsair</marca>
+        <precio>35.99</precio>
+        <stock>70</stock>
+        <categoria>Auriculares</categoria>
+    </producto>
+    <producto id="4">
+        <nombre>Alfombrilla tamaño mesa</nombre>
+        <marca>Razer</marca>
+        <precio>10</precio>
+        <stock>5</stock>
+        <categoria>Alfombrillas</categoria>
+    </producto>
+    <producto id="5">
+        <nombre>Disco SSD 1TB</nombre>
+        <marca>Kingston</marca>
+        <precio>74.99</precio>
+        <stock>45</stock>
+        <categoria>Almacenamiento</categoria>
+    </producto>
